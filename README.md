@@ -1,4 +1,4 @@
-# Rusty Anthropics Client
+# Rusty Anthropic Client
 
 A Rust client for interacting with the Anthropic API, featuring examples for messages and text completions. This client utilizes the `dotenv` crate to manage environment variables securely.
 
