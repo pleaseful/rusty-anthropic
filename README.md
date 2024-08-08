@@ -117,4 +117,3 @@ Please visit this link for the documentation (WIP): [here](https://pleaseful.git
 ## License
 
 This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE.md) file for details.
-```
