@@ -26,7 +26,7 @@ To use the Rusty Anthropics Client, follow these steps:
 
 ```toml
 [dependencies]
-rusty-anthropic = "0.1.0"
+rusty-anthropic = "0.1.1"
 reqwest = { version = "0.12.5", features = ["json"] }
 tokio = { version = "1", features = ["full"] }
 serde_json = "1.0"
