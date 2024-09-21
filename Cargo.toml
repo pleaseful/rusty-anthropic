@@ -1,6 +1,6 @@
 [package]
 name = "rusty-anthropic"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A Rust SDK for interacting with the Anthropic API, supporting Vision and more."
 license = "MIT"
