@@ -1,4 +1,4 @@
 pub mod client;
-pub mod text_completions;
-pub mod messages;
 pub mod embeddings;
+pub mod messages;
+pub mod text_completions;
