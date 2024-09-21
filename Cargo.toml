@@ -8,7 +8,7 @@ authors = ["buffer"]
 repository = "https://github.com/pleaseful/rusty-anthropic"
 keywords = ["anthropic", "api", "sdk", "rust"]
 categories = ["api-bindings", "web-programming"]
-exclude = ["rustfmt.toml"]
+exclude = ["docs/", "rustfmt.toml"]
 readme = "README.md"
 documentation = "https://pleaseful.github.io/rusty-anthropic/#"
 
