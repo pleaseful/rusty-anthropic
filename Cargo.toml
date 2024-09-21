@@ -8,14 +8,12 @@ authors = ["buffer"]
 repository = "https://github.com/pleaseful/rusty-anthropic"
 keywords = ["anthropic", "api", "sdk", "rust"]
 categories = ["api-bindings", "web-programming"]
+exclude = ["rustfmt.toml"]
 readme = "README.md"
 documentation = "https://pleaseful.github.io/rusty-anthropic/#"
 
 [dependencies]
-reqwest = { version = "0.12.5", features = ["json"] }
-serde = { version = "1.0", features = ["derive"] }
-serde_json = "1.0"
-tokio = { version = "1", features = ["full"] }
-
-[dev-dependencies]
+reqwest = { version = "0.12", features = ["json"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
 tokio = { version = "1", features = ["full"] }
